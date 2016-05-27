@@ -2,6 +2,7 @@
 仿IOS版QQ水滴下拉刷新,添加上拉加载、左滑删除等
 
 ## Blog
+http://blog.csdn.net/guodongAndroid/article/details/51516451
 
 ### 效果如下所示
 <p>
