@@ -1,6 +1,8 @@
 # PulllayoutWithSwipeMenuListview
 仿IOS版QQ水滴下拉刷新,添加上拉加载、左滑删除等
 
+## Blog
+
 ### 效果如下所示
 <p>
    <img src="https://github.com/guodongAndroid/PulllayoutWithSwipeMenuListview/blob/master/GIF.gif" width="320" />
@@ -10,4 +12,3 @@
 
 此效果是根据[PullLayout](https://github.com/shubowen/pullLayout)和[SwipeMenuListView](https://github.com/baoyongzhang/SwipeMenuListView)的整合，首先感谢两位作者。此效果只能作用于ListView，对RecyclerView不可用；不过[PullLayout](https://github.com/shubowen/pullLayout)支持RecyclerView(LinearLayoutManager-VERTICAL模式)。
 
-## Blog
