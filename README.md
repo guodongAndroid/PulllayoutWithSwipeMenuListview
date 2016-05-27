@@ -3,5 +3,5 @@
 
 ### 效果如下所示
 <p>
-   <img src="https://raw.githubusercontent.com/guodongAndroid/PulllayoutWithSwipeMenuListview/GIF.gif" width="320" alt="Screenshot"/>
+   <img src="https://github.com/guodongAndroid/PulllayoutWithSwipeMenuListview/blob/master/GIF.gif" width="320" />
 </p>
